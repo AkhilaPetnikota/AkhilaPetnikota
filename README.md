@@ -23,6 +23,10 @@ Welcome to my GitHub! I'm a Master's student in Computer Science at the Universi
   Accenture Solutions Pvt. Ltd, Bengaluru, Karnataka  
   *July 2021 - July 2022*  
   Developed data-driven solutions enhancing operational efficiency using Python and SQL.
+- **Software Developer Intern**  
+  Infosys Private Limited(India)  
+  *Jan 2021 - June 2021*  
+  Designed high-performance data structures, improving system efficiency and scalability.
 
 ## 🚀 Projects
 - **3D Mesh Generation Study and Implementation** (C++, CGAL)  

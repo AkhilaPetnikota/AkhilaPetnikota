@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a Master's student in Computer Science at the Universi
 ## 🎓 Education
 - **Master of Science in Computer Science**  
   University of Texas at Dallas, GPA: 3.4/4.0  
-  *Expected Graduation: May 2024*
+  *Graduated: May 2024*
 - **Bachelor of Technology in Electronics and Communication**  
   Reva University, GPA: 9.05/10  
   *Graduated: August 2021*

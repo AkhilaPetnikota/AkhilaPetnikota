@@ -37,6 +37,9 @@ Welcome to my GitHub! I'm a Master's student in Computer Science at the Universi
   Utilized RNNs to forecast stock trends, enhancing financial decision-making tools.
 - **Smart Trolley with Social Distance Monitoring** (IoT, Python, MySQL)  
   Integrated technology to streamline retail operations and enhance the shopping experience.
+- **Spark Machine Translation** (Apache Spark, ML, Text Processing, Scalable DataL)  
+  Developed a scalable machine translation system using Apache Spark, incorporating language detection, tokenization, vectorization, and Spark ML for efficient processing across 
+  multilingual datasets.
 
 ## 🛠️ Technical Skills
 

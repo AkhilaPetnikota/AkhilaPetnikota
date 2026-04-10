@@ -1,91 +1,162 @@
 # Hello, I'm Akhila Petnikota 👋
 
-Welcome to my GitHub! I'm a Master's student in Computer Science at the University of Texas at Dallas, where I'm honing my skills in machine learning, natural language processing, and cloud computing. With a strong foundation in electronics and communication from Reva University, I bring a diverse skill set to my current focus in computer science.
+Software Engineer focused on **high-performance C++ systems, algorithms, and scalable software engineering**. I enjoy building systems that combine **performance optimization, parallel computing, and machine learning** to solve complex engineering problems.
 
-## 🎓 Education
-- **Master of Science in Computer Science**  
-  University of Texas at Dallas, GPA: 3.4/4.0  
-  *Graduated: May 2024*
-- **Bachelor of Technology in Electronics and Communication**  
-  Reva University, GPA: 9.05/10  
-  *Graduated: August 2021*
+My work spans **systems programming, distributed systems, and computational software**, with hands-on experience building backend services, algorithmic systems, and machine learning applications.
 
-## 💼 Professional Experience
-- **Volunteer Data Research Analyst**  
-  Community Dreams Foundation, Dallas, Texas  
-  *July 2024 - Present*  
-  Spearheading data analytics initiatives to enhance decision-making using advanced statistical modeling.
-- **Teaching Assistant**  
-  University of Texas at Dallas, Dallas, Texas  
-  *June 2023 - May 2024*  
-  Mentoring students in machine learning and programming languages.
-- **Application Development Associate**  
-  Accenture Solutions Pvt. Ltd, Bengaluru, Karnataka  
-  *July 2021 - July 2022*  
-  Developed data-driven solutions enhancing operational efficiency using Python and SQL.
-- **Software Developer Intern**  
-  Infosys Private Limited(India)  
-  *Jan 2021 - June 2021*  
-  Designed high-performance data structures, improving system efficiency and scalability.
+---
 
-## 🚀 Projects
-- **3D Mesh Generation Study and Implementation** (C++, CGAL)  
-  Pioneered development impacting computational geometry and visual simulations.
-- **Fake News Detection in Social Media** (Machine Learning, NLP)  
-  Developed an NLP model to combat misinformation using Logistic Regression and SVM.
-- **Stock Price Prediction for Amazon** (Machine Learning)  
-  Utilized RNNs to forecast stock trends, enhancing financial decision-making tools.
-- **Smart Trolley with Social Distance Monitoring** (IoT, Python, MySQL)  
-  Integrated technology to streamline retail operations and enhance the shopping experience.
-- **Spark Machine Translation** (Apache Spark, ML, Text Processing, Scalable DataL)  
-  Developed a scalable machine translation system using Apache Spark, incorporating language detection, tokenization, vectorization, and Spark ML for efficient processing across 
-  multilingual datasets.
+# 🎓 Education
 
-## 🛠️ Technical Skills
+**Master of Science in Computer Science**  
+University of Texas at Dallas  
+Graduated: May 2024  
 
-### Programming Languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) Java
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) C
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) C++
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) SQL
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) R
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
+**Bachelor of Technology in Electronics and Communication Engineering**  
+Reva University  
+Graduated: August 2021  
 
-### Web Technologies
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
-- ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) React
-- ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white) Node.js
+---
 
-### Machine Learning / Deep Learning
-- ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) scikit-learn
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) TensorFlow
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) PyTorch
+# 💼 Professional Experience
 
-### Databases
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) MySQL
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) MongoDB
-- ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white) Cassandra
+## Software Engineer  
+**Abbott | Austin, TX**  
+May 2025 – Present
 
-### Cloud Computing
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) AWS
-- ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) Azure
-- ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) Google Cloud
+- Contributing to backend services written in **C++ and Python** supporting large-scale systems processing thousands of requests daily.
+- Improving system performance using **multithreading, debugging tools, and performance optimization techniques** on Linux environments.
 
-### Data Visualization
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) Tableau
-- ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) Power BI
+## Software Engineer  
+**State Farm Insurance | Dallas, TX**  
+Jul 2024 – May 2025
 
-### Version Control
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) Git
+- Developed backend services and data pipelines using **Python and distributed system architectures**.
+- Implemented **algorithm-driven data processing pipelines** supporting analytics and internal applications.
 
+## Teaching Assistant  
+**University of Texas at Dallas**  
+Jun 2023 – May 2024
 
-## 🌐 Let's Connect
-- **[LinkedIn](https://www.linkedin.com/in/akhila-petnikota/)**
-- **[Email](mailto:petnikotaakhila@gmail.com)**
+- Mentored students in **algorithms, C++ programming, and system design**.
+- Helped debug complex codebases and guided students in writing efficient programs.
 
-Feel free to explore my repositories, and I'm always open to discussing new project ideas or collaborations!
+## Software Engineer  
+**Accenture Solutions Pvt Ltd | India**  
+Jul 2021 – Jul 2022
 
+- Built backend services using **C++, Python, and SQL** supporting enterprise systems and distributed applications.
+- Optimized system performance and resolved production issues through debugging and architecture improvements.
+
+## Software Engineer Intern  
+**Infosys Pvt Ltd | India**  
+Jan 2020 – Jun 2021
+
+- Developed Python automation tools and backend workflows.
+- Investigated performance issues and improved database query efficiency.
+
+---
+
+# 🚀 Key Projects
+
+## C++ Mesh Generation Library
+**C++ | Computational Geometry | Parallel Computing**
+
+Developed a mesh generation library for geometric modeling and simulation systems.
+
+**Highlights**
+
+- Implemented **optimized computational geometry algorithms**
+- Designed scalable mesh construction architecture
+- Explored **parallel mesh computation techniques**
+- Architecture compatible with **GPU acceleration workflows (CUDA/OpenCL concepts)**
+
+Repository:  
+https://github.com/AkhilaPetnikota/Mesh_Generation_Library_CPP
+
+---
+
+## Amazon Stock Price Prediction using RNN
+**Python | TensorFlow | Deep Learning**
+
+Developed a machine learning system to predict stock prices using **Recurrent Neural Networks (RNNs)**.
+
+**Features**
+
+- Time-series data preprocessing
+- Feature engineering
+- Deep learning model training using **TensorFlow**
+- Prediction evaluation and visualization
+
+Repository:  
+https://github.com/AkhilaPetnikota/Stock-Price-Prediction-for-Amazon-Using-Recurrent-Neural-Networks-
+
+---
+
+## Fake News Detection System
+**Python | NLP | Machine Learning**
+
+Built a machine learning model to detect misinformation in news content.
+
+**Features**
+
+- Text preprocessing and feature extraction
+- Natural Language Processing techniques
+- Classification models for misinformation detection
+
+Repository:  
+https://github.com/AkhilaPetnikota/fake-news-detection
+
+---
+
+# 🛠 Technical Skills
+
+## Programming Languages
+C++, Python, SQL, Bash
+
+## Systems Engineering
+Multithreading  
+Concurrency  
+Memory Management  
+Performance Optimization  
+Low-Level Debugging  
+
+## Software Engineering
+Algorithms  
+Data Structures  
+Object-Oriented Programming  
+Design Patterns  
+Distributed Systems  
+
+## Machine Learning
+TensorFlow  
+PyTorch  
+Deep Learning  
+Natural Language Processing  
+
+## Tools & Platforms
+Linux  
+Git  
+Docker  
+CI/CD Pipelines  
+GDB  
+
+---
+
+# 🔬 Technical Interests
+
+- High-Performance Computing
+- Parallel Algorithms
+- Robotics & Autonomous Systems
+- Distributed Systems
+- Machine Learning Systems
+
+---
+
+# 🌐 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/akhila-petnikota/
+
+Email  
+petnikotaakhila@gmail.com

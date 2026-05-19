@@ -2,19 +2,29 @@
 
 Data Scientist and Software Engineer focused on machine learning, large-scale data analysis, computational workflows, and scalable analytical systems. I enjoy building research-oriented software and predictive analytics pipelines using Python, SQL, Apache Spark, and machine learning frameworks to solve complex real-world problems involving structured and unstructured data.
 
-My work spans predictive modeling, distributed data processing, NLP systems, workflow automation, and backend analytical infrastructure across healthcare, enterprise analytics, and machine learning applications.
+My work focuses on predictive modeling, statistical analysis, distributed data processing, NLP systems, and scalable computational workflows for research-oriented and data-intensive applications.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-### Master of Science in Computer Science
+## Master of Science in Computer Science
 University of Texas at Dallas  
 Graduated: May 2024
 
-### Bachelor of Technology in Electronics and Communication Engineering
+## Bachelor of Technology in Electronics and Communication Engineering
 Reva University  
 Graduated: August 2021
+
+---
+
+# 🔬 Research Interests
+
+- Machine Learning & Predictive Analytics
+- NLP & Large-Scale Text Processing
+- Distributed Data Processing
+- Research Computing & Workflow Automation
+- Statistical Modeling & Computational Analysis
 
 ---
 
@@ -93,4 +103,17 @@ Scikit-learn, TensorFlow, PyTorch, Deep Learning, NLP, Predictive Modeling
 Apache Spark, Kafka, ETL Pipelines, Hadoop, Hive, Workflow Automation
 
 ## Software & Research Computing
-Algorithms, Data Structures, Distributed Systems, Linux, Git, Docker, CI/CD, REST APIs
+Algorithms, Data Structures, Distributed Systems, Linux, Git, Docker, REST APIs, Reproducible Analytical Workflows
+
+---
+
+# 📊 Areas of Experience
+
+- Predictive Modeling
+- Statistical Analysis
+- ETL & Data Pipelines
+- NLP Classification
+- Distributed Computing
+- Workflow Automation
+- Research Data Processing
+- Machine Learning Model Development

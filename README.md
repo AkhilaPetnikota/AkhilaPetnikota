@@ -1,94 +1,37 @@
 # Hello, I'm Akhila Petnikota 👋
 
-Software Engineer focused on **high-performance C++ systems, algorithms, and scalable software engineering**. I enjoy building systems that combine **performance optimization, parallel computing, and machine learning** to solve complex engineering problems.
+Data Scientist and Software Engineer focused on machine learning, large-scale data analysis, computational workflows, and scalable analytical systems. I enjoy building research-oriented software and predictive analytics pipelines using Python, SQL, Apache Spark, and machine learning frameworks to solve complex real-world problems involving structured and unstructured data.
 
-My work spans **systems programming, distributed systems, and computational software**, with hands-on experience building backend services, algorithmic systems, and machine learning applications.
+My work spans predictive modeling, distributed data processing, NLP systems, workflow automation, and backend analytical infrastructure across healthcare, enterprise analytics, and machine learning applications.
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-**Master of Science in Computer Science**  
+### Master of Science in Computer Science
 University of Texas at Dallas  
-Graduated: May 2024  
+Graduated: May 2024
 
-**Bachelor of Technology in Electronics and Communication Engineering**  
+### Bachelor of Technology in Electronics and Communication Engineering
 Reva University  
-Graduated: August 2021  
+Graduated: August 2021
 
 ---
 
-# 💼 Professional Experience
-
-## Software Engineer  
-**Abbott | Austin, TX**  
-May 2025 – Present
-
-- Contributing to backend services written in **C++ and Python** supporting large-scale systems processing thousands of requests daily.
-- Improving system performance using **multithreading, debugging tools, and performance optimization techniques** on Linux environments.
-
-## Software Engineer  
-**State Farm Insurance | Dallas, TX**  
-Jul 2024 – May 2025
-
-- Developed backend services and data pipelines using **Python and distributed system architectures**.
-- Implemented **algorithm-driven data processing pipelines** supporting analytics and internal applications.
-
-## Teaching Assistant  
-**University of Texas at Dallas**  
-Jun 2023 – May 2024
-
-- Mentored students in **algorithms, C++ programming, and system design**.
-- Helped debug complex codebases and guided students in writing efficient programs.
-
-## Software Engineer  
-**Accenture Solutions Pvt Ltd | India**  
-Jul 2021 – Jul 2022
-
-- Built backend services using **C++, Python, and SQL** supporting enterprise systems and distributed applications.
-- Optimized system performance and resolved production issues through debugging and architecture improvements.
-
-## Software Engineer Intern  
-**Infosys Pvt Ltd | India**  
-Jan 2020 – Jun 2021
-
-- Developed Python automation tools and backend workflows.
-- Investigated performance issues and improved database query efficiency.
-
----
-
-# 🚀 Key Projects
-
-## C++ Mesh Generation Library
-**C++ | Computational Geometry | Parallel Computing**
-
-Developed a mesh generation library for geometric modeling and simulation systems.
-
-**Highlights**
-
-- Implemented **optimized computational geometry algorithms**
-- Designed scalable mesh construction architecture
-- Explored **parallel mesh computation techniques**
-- Architecture compatible with **GPU acceleration workflows (CUDA/OpenCL concepts)**
-
-Repository:  
-https://github.com/AkhilaPetnikota/Mesh_Generation_Library_CPP
-
----
+# 🚀 Research & Technical Projects
 
 ## Amazon Stock Price Prediction using RNN
 **Python | TensorFlow | Deep Learning**
 
-Developed a machine learning system to predict stock prices using **Recurrent Neural Networks (RNNs)**.
+Developed a deep learning forecasting system using recurrent neural networks (RNNs) to analyze historical stock market data and generate predictive insights.
 
-**Features**
+### Highlights
+- Time-series preprocessing and feature engineering
+- Predictive modeling using TensorFlow and Keras
+- Model evaluation and visualization workflows
+- Statistical trend analysis on historical datasets
 
-- Time-series data preprocessing
-- Feature engineering
-- Deep learning model training using **TensorFlow**
-- Prediction evaluation and visualization
-
-Repository:  
+### Repository
 https://github.com/AkhilaPetnikota/Stock-Price-Prediction-for-Amazon-Using-Recurrent-Neural-Networks-
 
 ---
@@ -96,67 +39,58 @@ https://github.com/AkhilaPetnikota/Stock-Price-Prediction-for-Amazon-Using-Recur
 ## Fake News Detection System
 **Python | NLP | Machine Learning**
 
-Built a machine learning model to detect misinformation in news content.
+Built an NLP classification pipeline to detect misinformation patterns in large-scale news datasets using supervised machine learning methods.
 
-**Features**
+### Highlights
+- Text preprocessing and TF-IDF feature extraction
+- Natural language processing workflows
+- Classification model development using Scikit-learn
+- Data analysis and model validation techniques
 
-- Text preprocessing and feature extraction
-- Natural Language Processing techniques
-- Classification models for misinformation detection
-
-Repository:  
+### Repository
 https://github.com/AkhilaPetnikota/fake-news-detection
+
+---
+
+## Spark Machine Translation System
+**Apache Spark | Python | Distributed Processing**
+
+Developed a distributed multilingual text-processing pipeline for scalable language translation and NLP experimentation.
+
+### Highlights
+- Distributed data processing using Apache Spark
+- NLP preprocessing and workflow automation
+- Scalable analytical pipeline design
+- Large-text dataset transformation workflows
+
+---
+
+## C++ Mesh Generation Library
+**C++ | Computational Geometry | Parallel Computing**
+
+Developed a mesh generation framework supporting scalable computational geometry and parallel processing workflows.
+
+### Highlights
+- Optimized computational geometry algorithms
+- Parallel computation concepts
+- Scalable system architecture design
+- GPU acceleration compatible architecture concepts
+
+### Repository
+https://github.com/AkhilaPetnikota/Mesh_Generation_Library_CPP
 
 ---
 
 # 🛠 Technical Skills
 
-## Programming Languages
-C++, Python, SQL, Bash
+## Programming & Analytics
+Python, SQL, R, C++, Pandas, NumPy
 
-## Systems Engineering
-Multithreading  
-Concurrency  
-Memory Management  
-Performance Optimization  
-Low-Level Debugging  
+## Machine Learning & AI
+Scikit-learn, TensorFlow, PyTorch, Deep Learning, NLP, Predictive Modeling
 
-## Software Engineering
-Algorithms  
-Data Structures  
-Object-Oriented Programming  
-Design Patterns  
-Distributed Systems  
+## Data Engineering & Distributed Systems
+Apache Spark, Kafka, ETL Pipelines, Hadoop, Hive, Workflow Automation
 
-## Machine Learning
-TensorFlow  
-PyTorch  
-Deep Learning  
-Natural Language Processing  
-
-## Tools & Platforms
-Linux  
-Git  
-Docker  
-CI/CD Pipelines  
-GDB  
-
----
-
-# 🔬 Technical Interests
-
-- High-Performance Computing
-- Parallel Algorithms
-- Robotics & Autonomous Systems
-- Distributed Systems
-- Machine Learning Systems
-
----
-
-# 🌐 Connect With Me
-
-LinkedIn  
-https://www.linkedin.com/in/akhila-petnikota/
-
-Email  
-petnikotaakhila@gmail.com
+## Software & Research Computing
+Algorithms, Data Structures, Distributed Systems, Linux, Git, Docker, CI/CD, REST APIs
